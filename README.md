@@ -5,7 +5,10 @@
 
 收集整理了近五年的四级真题，三十套左右（每年四级考两次，每次会三套真题试卷，两次\*三套\*5年=30套），将这三十套真题中每一套真题的每一个单词进行统计，获得近五年四级真题出现的单词和每个单词的频率，并按照频率进行排序，整理出了这本真正的四级真题高频词汇书。
 
-[下载链接](https://github.com/liut969/CET/blob/main/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E9%AB%98%E9%A2%91%E8%AF%8D%E6%B1%87.pdf)
+[下载链接1](https://github.com/liut969/CET/blob/main/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E9%AB%98%E9%A2%91%E8%AF%8D%E6%B1%87.pdf)
+
+百度网盘链接：https://pan.baidu.com/s/1n3hZpkGLur1laroDQ6Smtg?pwd=orm5 
+提取码：orm5
 
 ### 祝大家都能高分通过四级考试！
 
@@ -16,7 +19,10 @@
 
 之前整理的《英语四级真题高频词汇》，效果不错，因此趁热打铁，又整理了这个《英语六级真题高频词汇》，仔细看了一下，大部分单词其实都类似，毕竟经常用的单词就这些，从侧面也反映出，这些单词的重要性，因此书里列的单词，一定要背会，能做到看到单词想到汉语释义，看到汉语释义能准确想到英文单词。
 
-[下载链接](https://github.com/liut969/CET/blob/main/%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E9%AB%98%E9%A2%91%E8%AF%8D%E6%B1%87.pdf)
+[下载链接1](https://github.com/liut969/CET/blob/main/%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E9%AB%98%E9%A2%91%E8%AF%8D%E6%B1%87.pdf)
+
+百度网盘链接：https://pan.baidu.com/s/1NajF0kaifPx-LgSJWhqWaQ?pwd=4sw3 
+提取码：4sw3
 
 ### 祝大家都能高分通过六级考试！
 
@@ -27,6 +33,9 @@
 
 收集近十年（2014-2023）的考研英语真题，共二十套（英语一和英语二），将这二十套真题中每一套真题的每一个单词进行统计，获得近十年考研英语真题出现的单词和每个单词的频率，并按照频率进行排序，整理出了这本真正的考研英语真题高频词汇书！
 
-[下载链接](https://github.com/liut969/CET/blob/main/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E9%AB%98%E9%A2%91%E8%AF%8D%E6%B1%87.pdf)
+[下载链接1](https://github.com/liut969/CET/blob/main/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E9%AB%98%E9%A2%91%E8%AF%8D%E6%B1%87.pdf)
+
+百度网盘链接：https://pan.baidu.com/s/1U-_VmSCc7YWVGxh7T4R59Q?pwd=ppqe 
+提取码：ppqe
 
 ### 祝大家考研顺利！心想事成！
